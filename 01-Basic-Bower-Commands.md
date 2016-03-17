@@ -19,6 +19,7 @@ $ bower install underscore
 ```
 
 Installed package will be placed in a `bower_components` directory that is created in the folder which the [Bower][] command was executed. In our example as I run command inside `basics` folder it is created there:
+
 ![](images/install-underscore-library.png)
 
 ---
@@ -67,6 +68,7 @@ $ bower uninstall velocity
 ```
 
 As you can see [Bower][] removed `velocity` directory from `bower_components` folder:
+
 ![](images/install-underscore-library.png)
 
 ---
